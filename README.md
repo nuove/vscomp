@@ -1,0 +1,1 @@
+A Vapoursynth script that syncs videos from different sources (matches FPS and trims them for clips) to extract random frames. These frames can be used to compare the sources and find artifacts. Also has the ability to deinterlace, remove blank/duplicate frames and losslessly label them.
